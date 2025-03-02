@@ -1,4 +1,4 @@
-# 🏥 MedPred - Predicting the Severity of Healthcare Malpractices using Machine Learning  
+# 🏥 MedPred - Predicting the Severity of Medical Malpractices using Machine Learning  
 
 ## 📌 Overview  
 Medical malpractice is a **serious issue in the healthcare industry**, leading to financial losses, legal disputes, and, most importantly, **compromised patient safety**.  
