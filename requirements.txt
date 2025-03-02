@@ -1,0 +1,24 @@
+# Data Handling & Processing
+pandas
+numpy
+scipy
+statsmodels
+
+# Data Preprocessing & Feature Engineering
+scikit-learn
+mlxtend
+
+# Machine Learning Models
+xgboost
+lightgbm
+
+# Clustering & Association Rule Learning
+mlxtend
+hdbscan
+
+# Visualization
+matplotlib
+seaborn
+
+# Suppressing Warnings
+warnings
